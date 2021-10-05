@@ -1,2 +1,2 @@
-# Tugas-Besar-Image-Processing-Biospin
+# Hand Recognition
 #P1 = GUI
